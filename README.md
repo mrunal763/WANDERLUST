@@ -23,10 +23,4 @@ Wanderlust is a web application inspired by Airbnb, designed to help users find 
 - **Host Dashboard**: Hosts can manage their property listings, including adding new properties, editing existing ones, and viewing booking requests.
 - **Responsive Design**: Fully responsive design ensures the site is usable on all devices, from desktops to smartphones.
 
-## Getting Started
 
-To get a local copy of the project up and running, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/wanderlust.git
